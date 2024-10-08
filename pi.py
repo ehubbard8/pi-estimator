@@ -4,6 +4,9 @@ from math import pow
 import argparse
 
 def compute_pi(attempts):
+    """
+    added a comment
+    """
     inside = 0
     tries = 0
     
